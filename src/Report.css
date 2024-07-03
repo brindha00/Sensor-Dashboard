@@ -1,0 +1,38 @@
+
+.top1{
+    width: 800px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: #9DB2BF;
+    margin-left: 100px;
+    border: 1px solid;
+    margin-top: 10px;
+}
+.topin{
+    margin-left: 400px;
+}
+.low1{
+    width: 800px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: #9DB2BF;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-top: 100px;
+    border: 1px solid;
+}
+.imagee{
+  position: absolute;
+  top: 190px;
+  left: 470px;
+}
+.but{
+    margin-left: 200px;
+    width: 150px;
+}
+.textt{
+    width: 210px;
+    height: 100px;
+    margin-left: 390px;
+    margin-top: -200px;
+}
